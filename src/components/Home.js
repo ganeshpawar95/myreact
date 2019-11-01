@@ -8,7 +8,7 @@ import {
 } from 'react-router-dom';
 import Footer from './Footer.js'
 import logo from './logo.png';
-import Bot from './Bot.png';
+import Bot from './BOT.png';
 import About from './About';
 import Messages from './Messages';
 const Home = () => (
